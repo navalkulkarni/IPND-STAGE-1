@@ -1,0 +1,41 @@
+body {
+	text-align: center;
+}
+
+.book-of-the-month{
+
+	
+	display: flex;
+	
+}
+
+.book-of-the-month-header{
+
+	font-family: "Roboto", sans-serif;
+
+}
+
+.other-books-header{
+
+	font-family: "Roboto", sans-serif;
+
+    font-family: "Mukta Vaani", sans-serif;
+}
+
+.book-of-the-month-desc{
+	font-family: "Source Sans Pro", sans-serif;
+	font-size: 20px;
+}
+
+.other-books-image{
+	width: 200px;
+	height: 200px;
+}
+.footer-title{
+	font-size: 20px;
+	font-weight: bolder;
+}
+
+.mark{
+	background-color: #e3cc58;
+}
